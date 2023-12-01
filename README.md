@@ -1,16 +1,16 @@
-### Hi there 👋
+### About Me 👋
 
-<!--
-**JarrettGilp/JarrettGilp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I am Jarrett Gilpatric and I am an aspiring **Game Developer** as well as a **Computer Science and Engineering BS Student**.
 
-Here are some ideas to get you started:
+![itchdotio](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<#FA5C5C>) The languages I am experienced with are **Java**, **C++**, **C#**, and **GML**. I'm always interested in broadening my knowledge of these languages as well as new ones that I'm able to get my hands on!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have experience using **Unity** and **GameMakerStudio** for game development!
+
+My passion is working on video games and being able to intrigue people with interesting, fun gameplay and riveting mechanics while giving them an experience that they'll remember for a long time.
+
+I have participated in multiple Game Jams as a part of many teams. These games can be viewed and played on my [Itch.io profile](https://jarrettgilp.itch.io/). Check them out!
+
+Outside of working, my hobbies include generally playing all of the games I can to broaden my views of the gaming world, as well as listening to tons of different music.
+
+Some of my favorite games of all time are Resident Evil 2 (1998), Super Metroid, Resident Evil 4 (Both 2005 and 2023), Dark Souls, Hollow Knight, Final Fantasy VII, Chrono Trigger, and Devil May Cry 3.
+
