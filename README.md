@@ -1,8 +1,8 @@
 ### About Me 👋
 
 Hello! I am Jarrett Gilpatric and I am an aspiring **Game Developer** as well as a **Computer Science and Engineering BS Student**.
-
-![itchdotio](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<#FA5C5C>) The languages I am experienced with are **Java**, **C++**, **C#**, and **GML**. I'm always interested in broadening my knowledge of these languages as well as new ones that I'm able to get my hands on!
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![itchdotio](https://img.shields.io/badge/Itch.io-000000?style=for-the-badge&logo=Itch.io&logoColor=<#FA5C5C>) The languages I am experienced with are **Java**, **C++**, **C#**, and **GML**. I'm always interested in broadening my knowledge of these languages as well as new ones that I'm able to get my hands on!
 
 I have experience using **Unity** and **GameMakerStudio** for game development!
 
