@@ -14,5 +14,5 @@ Outside of working, my hobbies include generally playing all of the games I can 
 
 Some of my favorite games of all time are Resident Evil 2 (1998), Super Metroid, Resident Evil 4 (Both 2005 and 2023), Dark Souls, Hollow Knight, Final Fantasy VII, Chrono Trigger, and Devil May Cry 3.
 
-<p align="center"> <![itchdotio](https://img.shields.io/badge/Itch.io-000000?style=for-the-badge&logo=Itch.io&logoColor=<#FA5C5C)>]> </p>
+<p align="center"> <![itchdotio](https://img.shields.io/badge/Itch.io-000000?style=for-the-badge&logo=Itch.io&logoColor=#FA5C5C)]> </p>
 <p align="center"> <![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]> </p>
