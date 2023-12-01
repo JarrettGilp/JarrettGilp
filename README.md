@@ -1,8 +1,8 @@
 ### About Me 👋
 
 Hello! I am Jarrett Gilpatric and I am an aspiring **Game Developer** as well as a **Computer Science and Engineering BS Student**.
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-![itchdotio](https://img.shields.io/badge/Itch.io-000000?style=for-the-badge&logo=Itch.io&logoColor=<#FA5C5C>) The languages I am experienced with are **Java**, **C++**, **C#**, and **GML**. I'm always interested in broadening my knowledge of these languages as well as new ones that I'm able to get my hands on!
+
+The languages I am experienced with are **Java**, **C++**, **C#**, and **GML**. I'm always interested in broadening my knowledge of these languages as well as new ones that I'm able to get my hands on!
 
 I have experience using **Unity** and **GameMakerStudio** for game development!
 
@@ -14,3 +14,5 @@ Outside of working, my hobbies include generally playing all of the games I can 
 
 Some of my favorite games of all time are Resident Evil 2 (1998), Super Metroid, Resident Evil 4 (Both 2005 and 2023), Dark Souls, Hollow Knight, Final Fantasy VII, Chrono Trigger, and Devil May Cry 3.
 
+<p align="center"> <![itchdotio](https://img.shields.io/badge/Itch.io-000000?style=for-the-badge&logo=Itch.io&logoColor=<#FA5C5C>)> </p>
+<p align="center"> <![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]> </p>
