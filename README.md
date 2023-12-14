@@ -13,7 +13,7 @@
 🕹️ Outside of working, my hobbies include generally playing all of the games I can to broaden my views of the gaming world, as well as listening to tons of different music.
 
 🎮 Some of my favorite games of all time are Resident Evil 2 (1998), Super Metroid, Resident Evil 4 (Both 2005 and 2023), Dark Souls, Hollow Knight, Final Fantasy VII, Chrono Trigger, and Devil May Cry 3.
-
+<br></br>
 <div align="center">
 
   <a href="">![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
