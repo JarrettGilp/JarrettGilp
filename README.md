@@ -24,7 +24,6 @@
   <a href="">![xbox](https://img.shields.io/badge/xbox-107C10?style=for-the-badge&logo=xbox&logoColor=#107C10)</a>
   <a href="">![playstation](https://img.shields.io/badge/playstation-003791?style=for-the-badge&logo=playstation&logoColor=#003791)</a>
   <a href="">![unity](https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=#000000)</a>
-  <a href="">![gamemaker](https://img.shields.io/badge/gamemaker-000000?style=for-the-badge&logo=gamemaker&logoColor=#000000)</a>
 
 </div>
 
