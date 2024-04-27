@@ -2,9 +2,9 @@
 
 ⚡ Hello! I am Jarrett Gilpatric and I am an aspiring **Game Developer** as well as a **Computer Science and Engineering BS Student**.
 
-💻 The languages I am experienced with are **Java**, **C++**, **C#**, and **GML**. I'm always interested in broadening my knowledge of these languages as well as new ones that I'm able to get my hands on!
+💻 The languages I am experienced with are **Java**, **C++**, and **C#**. I'm always interested in broadening my knowledge of these languages as well as new ones that I'm able to get my hands on!
 
-👾 I have experience using **Unity** and **GameMakerStudio** for game development!
+👾 I have experience using **Unity** for game development!
 
 ⚙️ My passion is working on video games and being able to intrigue people with interesting, fun gameplay and riveting mechanics while giving them an experience that they'll remember for a long time.
 
