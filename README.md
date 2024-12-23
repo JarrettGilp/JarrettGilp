@@ -18,7 +18,6 @@
 
   <a href="">![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
   <a href="">![cplusplus](https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=#00599C)</a>
-  <a href="">![csharp](https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=#512BD4)</a>
   <a href="">![java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white)</a>
   <a href="">![itchdotio](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white)</a>
   <a href="">![xbox](https://img.shields.io/badge/xbox-107C10?style=for-the-badge&logo=xbox&logoColor=#107C10)</a>
