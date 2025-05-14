@@ -1,10 +1,10 @@
 ### About Me 👋
 
-⚡ Hello! I am Jarrett Gilpatric and I am an aspiring **Game Developer** as well as a **Computer Science BS Student**.
+⚡ Hello! I am Jarrett Gilpatric and I am a **Game Developer** as well as a **Computer Science BS Student**.
 
-💻 The languages I am most experienced with are **C++** and **Java**. I'm always interested in broadening my knowledge of these languages as well as new ones that I'm able to get my hands on!
+💻 The languages I am most experienced with are **C#**, **C++**, and **Java**. I'm always interested in broadening my knowledge of these languages as well as new ones that I'm able to get my hands on!
 
-👾 I have experience using **Unity** for game development!
+👾 I have years of experience using **Unity** for game development!
 
 ⚙️ My passion is working on video games and being able to intrigue people with interesting, fun gameplay and riveting mechanics while giving them an experience that they'll remember for a long time.
 
@@ -12,7 +12,9 @@
 
 🕹️ Outside of working, my hobbies include generally playing all of the games I can to broaden my views of the gaming world, as well as listening to tons of different music.
 
-🎮 Some of my favorite games of all time are Resident Evil 2 (1998), Super Metroid, Resident Evil 4 (Both 2005 and 2023), Dark Souls, Hollow Knight, Final Fantasy VII, Chrono Trigger, and Devil May Cry 3.
+🎮 Some of my favorite games of all time are Resident Evil 2 (1998), Super Metroid, Resident Evil 4 (Both 2005 and 2023), Dark Souls, Hollow Knight, Final Fantasy VII, Chrono Trigger, Castlevania: Symphony of th e Night, and Devil May Cry 3.
+
+👤 Check out my [Game Portfolio](https://jarrettgilpatric.wixsite.com/user) site and my [LinkedIn](https://www.linkedin.com/in/jarrett-gilpatric/) page!
 <br></br>
 <div align="center">
 
