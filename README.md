@@ -1,6 +1,6 @@
 ### About Me 👋
 
-⚡ Hello! I am Jarrett Gilpatric and I am a **Game Developer** as well as a **Computer Science BS Student**.
+⚡ Hello! I am Jarrett Mitchell and I am a **Game Developer** as well as a **Computer Science BS Student**.
 
 💻 The languages I am most experienced with are **C#**, **C++**, and **Java**. I'm always interested in broadening my knowledge of these languages as well as new ones that I'm able to get my hands on!
 
