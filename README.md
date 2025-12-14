@@ -1,6 +1,6 @@
 ### About Me 👋
 
-⚡ Hello! I am Jarrett Mitchell and I am a **Game Developer** as well as a **Computer Science BS Student**.
+⚡ Hello! I am Jarrett Mitchell and I am a **Game Developer** and **Computer Science BS Graduate**.
 
 💻 The languages I am most experienced with are **C#**, **C++**, and **Java**. I'm always interested in broadening my knowledge of these languages as well as new ones that I'm able to get my hands on!
 
@@ -14,7 +14,7 @@
 
 🎮 Some of my favorite games of all time are Resident Evil 2 (1998), Super Metroid, Resident Evil 4 (Both 2005 and 2023), Dark Souls, Hollow Knight, Final Fantasy VII, Chrono Trigger, Castlevania: Symphony of th e Night, and Devil May Cry 3.
 
-👤 Check out my [Game Portfolio](https://jarrettgilpatric.wixsite.com/user) site and my [LinkedIn](https://www.linkedin.com/in/jarrett-gilpatric/) page!
+👤 Check out my [Game Portfolio](https://jarrettgilpatric.wixsite.com/home) site and my [LinkedIn](www.linkedin.com/in/jarrett-g-mitchell) page!
 <br></br>
 <div align="center">
 
