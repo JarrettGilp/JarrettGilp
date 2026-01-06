@@ -14,7 +14,7 @@
 
 🎮 Some of my favorite games of all time are Resident Evil 2 (1998), Super Metroid, Resident Evil 4 (Both 2005 and 2023), Dark Souls, Hollow Knight, Hollow Knight: Silksong, Final Fantasy VII, Chrono Trigger, Castlevania: Symphony of th e Night, and Devil May Cry 3.
 
-👤 Check out my [Game Portfolio](https://jarrettgilpatric.wixsite.com/main) site and my [LinkedIn](www.linkedin.com/in/jarrett-g-mitchell) page!
+👤 Check out my [Game Portfolio](https://jarrettgilpatric.wixsite.com/home) site and my [LinkedIn](www.linkedin.com/in/jarrett-g-mitchell) page!
 <br></br>
 <div align="center">
 
