@@ -12,7 +12,7 @@
 
 🕹️ Outside of working, my hobbies include generally playing all of the games I can to broaden my views of the gaming world, as well as listening to tons of different music.
 
-🎮 Some of my favorite games of all time are Resident Evil 2 (1998), Super Metroid, Resident Evil 4 (Both 2005 and 2023), Dark Souls, Hollow Knight, Hollow Knight: Silksong, Final Fantasy VII, Chrono Trigger, Castlevania: Symphony of th e Night, and Devil May Cry 3.
+🎮 Some of my favorite games of all time are Resident Evil 2 (1998), Super Metroid, Resident Evil 4 (Both 2005 and 2023), Dark Souls, Hollow Knight, Hollow Knight: Silksong, Final Fantasy VII, Chrono Trigger, Castlevania: Symphony of the Night, and Devil May Cry 3.
 
 👤 Check out my [Game Portfolio](https://jarrettgilpatric.wixsite.com/home) site and my [LinkedIn](www.linkedin.com/in/jarrett-g-mitchell) page!
 <br></br>
